@@ -1,7 +1,7 @@
 # Site settings
-title:          Typographical
+title:          Solbin.tech
 description:    "A typography-focused theme"
-url:            "https://iam.ramiyer.me"
+url:            "https://han-solbin.github.io/"
 
 future: true
 
@@ -10,8 +10,8 @@ google_analytics:
 
 # Author
 author:
-  name:         Ram Iyer
-  url:          https://ramiyer.me
+  name:         Han Solbin
+  url:          https://github.com/Han-solbin
   email:
 
 # Build settings
